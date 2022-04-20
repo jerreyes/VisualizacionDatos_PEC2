@@ -5,7 +5,7 @@ Este repositorio se utilizará con el fin de publicar las diferentes técnicas d
 
 
         Gráfico: https://public.tableau.com/authoring/Cartograma_PEC2/Sheet1#1
-        Dataset: 
+        Dataset: https://www.kaggle.com/datasets/shivkumarganesh/world-happiness-report-20152022
         
         
  * Marimekko Chart:
